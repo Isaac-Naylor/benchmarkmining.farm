@@ -20,8 +20,10 @@ aj@lkn.io | @ajlkn
 
 Credits:
 
-	Demo Images:
+	Images:
 		Unsplash (unsplash.com)
+		Photo by Nana Dua (https://unsplash.com/@nanadua11?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+		Photo by Tech Daily (https://unsplash.com/@techdailyca?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 	Icons:
 		Font Awesome (fontawesome.io)
@@ -30,3 +32,4 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Site Map (www.xml-sitemaps.com)
